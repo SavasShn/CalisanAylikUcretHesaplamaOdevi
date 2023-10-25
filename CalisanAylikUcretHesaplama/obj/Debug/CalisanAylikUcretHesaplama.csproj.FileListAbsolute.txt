@@ -1,0 +1,10 @@
+C:\Users\vyn\Desktop\ödev1\CalisanAylikUcretHesaplama\CalisanAylikUcretHesaplama\obj\Debug\CalisanAylikUcretHesaplama.csproj.AssemblyReference.cache
+C:\Users\vyn\Desktop\ödev1\CalisanAylikUcretHesaplama\CalisanAylikUcretHesaplama\obj\Debug\CalisanAylikUcretHesaplama.Form1.resources
+C:\Users\vyn\Desktop\ödev1\CalisanAylikUcretHesaplama\CalisanAylikUcretHesaplama\obj\Debug\CalisanAylikUcretHesaplama.Properties.Resources.resources
+C:\Users\vyn\Desktop\ödev1\CalisanAylikUcretHesaplama\CalisanAylikUcretHesaplama\obj\Debug\CalisanAylikUcretHesaplama.csproj.GenerateResource.cache
+C:\Users\vyn\Desktop\ödev1\CalisanAylikUcretHesaplama\CalisanAylikUcretHesaplama\obj\Debug\CalisanAylikUcretHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\vyn\Desktop\ödev1\CalisanAylikUcretHesaplama\CalisanAylikUcretHesaplama\bin\Debug\CalisanAylikUcretHesaplama.exe.config
+C:\Users\vyn\Desktop\ödev1\CalisanAylikUcretHesaplama\CalisanAylikUcretHesaplama\bin\Debug\CalisanAylikUcretHesaplama.exe
+C:\Users\vyn\Desktop\ödev1\CalisanAylikUcretHesaplama\CalisanAylikUcretHesaplama\bin\Debug\CalisanAylikUcretHesaplama.pdb
+C:\Users\vyn\Desktop\ödev1\CalisanAylikUcretHesaplama\CalisanAylikUcretHesaplama\obj\Debug\CalisanAylikUcretHesaplama.exe
+C:\Users\vyn\Desktop\ödev1\CalisanAylikUcretHesaplama\CalisanAylikUcretHesaplama\obj\Debug\CalisanAylikUcretHesaplama.pdb
